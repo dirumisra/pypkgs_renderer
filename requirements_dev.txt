@@ -1,6 +1,4 @@
-
-
-
+# project requirements below
 
 # dev requirements -
 pytest==7.1.3
