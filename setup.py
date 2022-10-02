@@ -1,6 +1,6 @@
-from ensurepip import version
-from importlib.metadata import packages_distributions
-from pytz import VERSION
+# from ensurepip import version
+#from importlib.metadata import packages_distributions
+# from pytz import VERSION
 import setuptools
 with open("README.md","r",encoding= "utf-8") as f:
     long_descripiton = f.read()
